@@ -1,7 +1,6 @@
 .container {
     width: 340px;
     height: 390px;
-    background-color: cornflowerblue;
     background-image: url("../img/tfz.jpg");
     background-size:100%;
     color: whitesmoke;
@@ -14,13 +13,13 @@
 
 
 .title-second,.title-first{
-
     position: relative;
     left: 10px;
+    top: 20px;
 }
 
 .title-second{
-    top: -20px;
+    top: 10px;
 }
 .detail {
     color: black;
@@ -31,10 +30,26 @@
     0 5px 15px 0 rgba(0,0,0,0.08);
 }
 
+h5 {
+    color:black ;
+    font-weight:300 ;
+    position: relative;
+    left: 15px;
+    top: 15px;
+}
 button {
     width: 50%;
     border: none;
     text-align: left;
     position: relative;
     left: 10px;
+    top: -10px;
+}
+
+hr {
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
 }
