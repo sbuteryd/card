@@ -5,6 +5,8 @@
     background-size:100%;
     color: whitesmoke;
     margin: auto;
+    border-radius: 4px;
+
 }
 
 .img-bg {
@@ -46,6 +48,8 @@ button {
     left: 10px;
     top: -10px;
     cursor: pointer;
+    border-radius: 4px;
+
 }
 button:hover{
     background-color: crimson;
