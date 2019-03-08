@@ -33,4 +33,8 @@
 
 button {
     width: 50%;
+    border: none;
+    text-align: left;
+    position: relative;
+    left: 10px;
 }
