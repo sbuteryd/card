@@ -1,2 +1,2 @@
 #css 练习
-![](img/view.png)
+<img src="img/view.png" width="300" height="400" />
