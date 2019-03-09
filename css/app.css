@@ -3,8 +3,8 @@
     height: 600px;
     /*background-color: #00A5D2;*/
     border-radius: 0px 0px 4px 4px;
-
     box-shadow: 0px 5px 10px 0px rgba(153,153,153,0.5);
+    margin: auto;
 }
 
 .top{
